@@ -1,5 +1,5 @@
 [workspace]
 members = [
-  "crates/traits"
+  "crates/traits",
+  "crates/generics"
 ]
-
